@@ -1,15 +1,8 @@
-## My Project
+## Amazon Data on EKS Examples
 
-TODO: Fill this README out!
+Examples of using big data components on EKS.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+Some other example codes are also included, such as Traffic Mirror Sessions Auto Discovery.
 
 ## License
 
